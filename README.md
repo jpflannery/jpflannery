@@ -75,5 +75,5 @@ I build automation solutions for finance and accounting teams using **Excel VBA*
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** *Add your LinkedIn profile URL here*
+* **LinkedIn:** *www.linkedin.com/in/patrick-flannery-b112b11b4*
 <!--* **Email:** *Add your preferred email address here*-->
